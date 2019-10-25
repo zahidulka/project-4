@@ -1,0 +1,98 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 02/05/2019 05:13
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-contract:before { content: "\f100"; }
+.flaticon-student:before { content: "\f101"; }
+.flaticon-house:before { content: "\f102"; }
+.flaticon-books:before { content: "\f103"; }
+.flaticon-books-1:before { content: "\f104"; }
+.flaticon-enlarge:before { content: "\f105"; }
+.flaticon-play-button:before { content: "\f106"; }
+.flaticon-calendar:before { content: "\f107"; }
+.flaticon-small-calendar:before { content: "\f108"; }
+.flaticon-chat:before { content: "\f109"; }
+.flaticon-comment:before { content: "\f10a"; }
+.flaticon-read-more-left-arrow-button:before { content: "\f10b"; }
+.flaticon-quote:before { content: "\f10c"; }
+.flaticon-play-button-1:before { content: "\f10d"; }
+.flaticon-mail:before { content: "\f10e"; }
+.flaticon-parents:before { content: "\f10f"; }
+.flaticon-facebook:before { content: "\f110"; }
+.flaticon-instagram:before { content: "\f111"; }
+.flaticon-twitter:before { content: "\f112"; }
+.flaticon-whatsapp:before { content: "\f113"; }
+.flaticon-google-plus:before { content: "\f114"; }
+.flaticon-telegram:before { content: "\f115"; }
+.flaticon-linkedin:before { content: "\f116"; }
+.flaticon-youtube:before { content: "\f117"; }
+.flaticon-left-quote:before { content: "\f118"; }
+.flaticon-right-quote:before { content: "\f119"; }
+.flaticon-quotation:before { content: "\f11a"; }
+.flaticon-straight-quotes:before { content: "\f11b"; }
+.flaticon-blocks-with-angled-cuts:before { content: "\f11c"; }
+    
+    $font-Flaticon-contract: "\f100";
+    $font-Flaticon-student: "\f101";
+    $font-Flaticon-house: "\f102";
+    $font-Flaticon-books: "\f103";
+    $font-Flaticon-books-1: "\f104";
+    $font-Flaticon-enlarge: "\f105";
+    $font-Flaticon-play-button: "\f106";
+    $font-Flaticon-calendar: "\f107";
+    $font-Flaticon-small-calendar: "\f108";
+    $font-Flaticon-chat: "\f109";
+    $font-Flaticon-comment: "\f10a";
+    $font-Flaticon-read-more-left-arrow-button: "\f10b";
+    $font-Flaticon-quote: "\f10c";
+    $font-Flaticon-play-button-1: "\f10d";
+    $font-Flaticon-mail: "\f10e";
+    $font-Flaticon-parents: "\f10f";
+    $font-Flaticon-facebook: "\f110";
+    $font-Flaticon-instagram: "\f111";
+    $font-Flaticon-twitter: "\f112";
+    $font-Flaticon-whatsapp: "\f113";
+    $font-Flaticon-google-plus: "\f114";
+    $font-Flaticon-telegram: "\f115";
+    $font-Flaticon-linkedin: "\f116";
+    $font-Flaticon-youtube: "\f117";
+    $font-Flaticon-left-quote: "\f118";
+    $font-Flaticon-right-quote: "\f119";
+    $font-Flaticon-quotation: "\f11a";
+    $font-Flaticon-straight-quotes: "\f11b";
+    $font-Flaticon-blocks-with-angled-cuts: "\f11c";
